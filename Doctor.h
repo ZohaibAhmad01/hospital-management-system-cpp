@@ -4,8 +4,15 @@
 #include <string>
 
 class Doctor {
-public:
+protected:
     std::string doctorName;
+
+public:
+    Doctor() : doctorName("") {}
+    virtual ~Doctor() = default;
+
+    void        setDoctorName(const std::string& n) { doctorName = n; }
+    std::string getDoctorName() const               { return doctorName; }
 };
 
 #endif

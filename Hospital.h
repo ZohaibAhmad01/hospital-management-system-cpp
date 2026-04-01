@@ -6,6 +6,7 @@ public:
     void showPatients();
     void searchPatient();
     void deletePatient();
+    void updatePatient();
 };
 
 #endif
