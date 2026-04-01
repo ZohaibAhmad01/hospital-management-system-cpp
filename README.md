@@ -1,3 +1,7 @@
+<img width="1219" height="953" alt="add_patient" src="https://github.com/user-attachments/assets/32a79276-d265-4aeb-80a4-deda64de541e" />
+<img width="1219" height="953" alt="view_pateint" src="https://github.com/user-attachments/assets/52f38154-550e-40bd-92cf-7e92770d5e2b" />
+<img width="1219" height="953" alt="add_appointment_and_view_appointment" src="https://github.com/user-attachments/assets/43fed153-cf09-498a-ab45-6f089e6601fa" />
+
 ==============================
 HOSPITAL MANAGEMENT SYSTEM
 ==============================
